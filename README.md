@@ -1,16 +1,21 @@
-### Hi there 👋
+👋 Hola, soy Selena. Soy mexicana-estadounidense y bilingüe.
 
-<!--
-**hola-selena/hola-selena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 Me interesa la repostería, aprender idiomas del mundo, el café y el mundo de la tecnología.
 
-Here are some ideas to get you started:
+🌱 Actualmente estoy aprendiendo HTML + CSS + JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ Busco colaborar en proyectos divertidos, pequeños y para principiantes.
+
+📫 ¿Cómo localizarme? Envíame un mensaje en Discord: hola-selena#1388 :)
+
+//
+
+👋 Hola, I'm Selena. I'm Mexican-American and bilingual.
+
+👀 I’m interested in baking, learning world languages, journaling, coffee and the tech world.
+
+🌱 I’m currently learning HTML + CSS + JS.
+
+💞️ I’m looking to collaborate on fun, colorful, small, beginner projects or to make coder friends from around the world.
+
+📫 How to reach me: message me on Discord: hola-selena#1388 :)
